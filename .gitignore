@@ -1,0 +1,5 @@
+target/
+.idea/
+*.iml
+commands.db
+google_credentials.json
